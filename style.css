@@ -80,7 +80,7 @@ padding:95px 0px 70px 0px;
 overflow-x:hidden
 }
 
-.intro h2:before
+.intro h1:before
 {
 position:absolute;
 left:-220px;
